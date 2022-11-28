@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-**akglitch/akglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on an Express mongodb backend
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on open source development
