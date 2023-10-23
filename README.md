@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on open source development
 
-
+[![An image of @akglitch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akglitch)](https://holopin.io/@akglitch)
 
 
 <h3 align="left">Languages and Tools:</h3>
